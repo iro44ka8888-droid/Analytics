@@ -4,7 +4,6 @@
 --       account counts and session volume
 --       broken down by continent
 -- Tool: BigQuery
--- Author: Iryna Savelieva
 -- ============================================
 
 -- Step 1: Calculate revenue by continent
